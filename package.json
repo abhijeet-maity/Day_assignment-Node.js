@@ -1,0 +1,25 @@
+{
+  "name": "day2_creating-task",
+  "version": "1.0.0",
+  "description": "Task manager program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "creating",
+    "task",
+    "deleting",
+    "task",
+    "marking",
+    "as",
+    "completed",
+    "a",
+    "task",
+    "viewing",
+    "a",
+    "task"
+  ],
+  "author": "Abhijeet Maity",
+  "license": "ISC"
+}
